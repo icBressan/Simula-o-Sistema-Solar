@@ -1,4 +1,4 @@
-# Simulacao Sistema Solar
+# Simulação Sistema Solar
 
 Este projeto é uma simulação visual do sistema solar utilizando a biblioteca Pygame em Python. Os planetas orbitam o Sol, representando as distâncias e velocidades relativas de cada um.
 
