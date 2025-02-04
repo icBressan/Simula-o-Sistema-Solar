@@ -14,7 +14,7 @@ git clone https://github.com/icBressan/Simulacao-Sistema-Solar.git
 
 Navegue até o diretório do projeto:
 ```
-cd nome-do-repositorio
+cd Simulacao-Sistema-Solar
 ```
 
 Instale o Pygame, se ainda não o tiver instalado:
@@ -23,5 +23,5 @@ pip install pygame
 ```
 Execute o script:
 ```
-python seu_script.py
+python sistema_solar.py
 ```
